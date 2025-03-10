@@ -4,6 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bug+Bounty+Guide;Hacking+Resources;Security+Tools;Beginner+Friendly" alt="Typing SVG" />
 </div>
 
+## 📖 About This Guide
+
+This comprehensive resource is designed to help beginners start their journey in bug bounty hunting. It provides a curated collection of tools, methodologies, and learning materials that are essential for identifying and reporting security vulnerabilities. Whether you're completely new to security research or transitioning from another field, this guide offers:
+
+- 🎓 Structured learning paths and free educational resources
+- 🛠️ Essential tools with practical usage examples
+- 📝 Step-by-step methodology for hunting bugs
+- 🔒 Best practices and safety guidelines
+- 🌐 Recommended platforms and programs
+- 📚 Valuable learning resources and practice environments
+
+Perfect for: Security enthusiasts, aspiring bug hunters, and anyone interested in web security.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bug+Bounty+Guide;Hacking+Resources;Security+Tools;Beginner+Friendly" alt="Typing SVG" />
+</div>
+
 ## 📚 Learning Resources
 
 ### Free Courses & Platforms
