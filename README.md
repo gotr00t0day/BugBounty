@@ -211,5 +211,5 @@ nuclei -l urls.txt -t nuclei-templates
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Guide+Views&color=brightgreen&style=flat" alt="Guide Views" />
+  <img src="https://komarev.com/ghpvc/?username=gotr00t0day&label=Guide+Views&color=brightgreen&style=flat" alt="Guide Views" />
 </div> 
