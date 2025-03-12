@@ -79,6 +79,12 @@ jwt_tool decode [token]                      # JWT analysis
 
 ## 🎯 Getting Started
 
+### Latest Bug Bounty Programs 
+| Site | Description | Link |
+|----------|-------|------|
+| bbradar | Find the Latest Bug Bounty Programs. Programs auto-refresh every 7 mins. | [Link](https://bbradar.io/) |
+
+
 ### Bug Bounty Platforms
 | Platform | Focus | Link |
 |----------|-------|------|
