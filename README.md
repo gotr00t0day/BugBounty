@@ -77,6 +77,20 @@ jwt_tool decode [token]                      # JWT analysis
 | OWASP ZAP | Security Tool | Vulnerability scanning |
 | Fiddler | Web Debugger | Traffic analysis |
 
+### API Testing Tools
+```bash
+# API Reconnaissance & Testing
+postman                     # API development and testing client
+kiterunner scan https://target.com -w routes.txt  # API endpoint discovery
+```
+
+### Cloud Security Tools
+```bash
+# Cloud Misconfiguration Scanners
+prowler aws --profile <profile_name>  # AWS security assessment
+scoutsuite aws --profile <profile_name> # Multi-cloud security auditing
+```
+
 ## 🎯 Getting Started
 
 ### Latest Bug Bounty Programs 
@@ -146,6 +160,25 @@ nuclei -l urls.txt -t nuclei-templates
 # - Review JavaScript files
 ```
 
+## 📝 Reporting Vulnerabilities
+
+Writing a clear, concise, and actionable bug report is crucial for getting your findings validated and rewarded. A good report demonstrates professionalism and makes the triage process easier for the security team.
+
+### Key Components of a Good Report
+- **Clear Title:** Summarize the vulnerability and its location (e.g., "Stored XSS in User Profile Name via POST /settings").
+- **Vulnerability Details:** Explain the type of vulnerability, where it was found, and the technical details.
+- **Steps to Reproduce (PoC):** Provide clear, step-by-step instructions that allow the team to reliably reproduce the issue. Include necessary code snippets, commands, or URLs. Screenshots or video recordings are often helpful.
+- **Impact:** Describe the potential impact of the vulnerability. What could an attacker achieve? (e.g., steal user sessions, modify data, gain unauthorized access).
+- **Remediation Suggestion (Optional but helpful):** Briefly suggest how the vulnerability might be fixed.
+
+### Tips for Effective Reporting
+- **Be Clear and Concise:** Avoid jargon where possible and get straight to the point.
+- **Ensure Reproducibility:** Double-check your steps before submitting.
+- **Demonstrate Impact:** Clearly explain why the vulnerability matters.
+- **Stay Professional:** Maintain a respectful tone, even if discussing sensitive issues.
+- **Check Scope:** Ensure the vulnerability is within the program's scope before reporting.
+- **Proofread:** Check for typos and grammatical errors.
+
 ## 💡 Pro Tips
 
 ### Getting Started
@@ -153,18 +186,26 @@ nuclei -l urls.txt -t nuclei-templates
 2. Master one tool at a time
 3. Read disclosed reports
 4. Join bug bounty Discord communities
+5. **Specialize:** Focus on specific vulnerability classes or target types (e.g., APIs, mobile).
 
 ### Documentation
 - Take detailed notes
 - Create reproducible steps
 - Record proof-of-concept videos
 - Use templates for reports
+- **Be Patient:** Finding bugs takes time and persistence.
 
 ### Safety First
 - Always read program policies
 - Use VPN when testing
 - Never test without authorization
 - Respect scope and rules
+- **Understand Safe Harbor:** Know the legal protections offered by the program policy.
+
+### General Tips
+- **Network:** Connect with other hunters and researchers.
+- **Handle Duplicates/NA Gracefully:** Learn from them and move on. It's part of the process.
+- **Don't Chase Leaderboards:** Focus on learning and quality reports over quantity.
 
 ## 📚 Must-Read Resources
 
